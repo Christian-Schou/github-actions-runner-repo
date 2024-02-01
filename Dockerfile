@@ -2,7 +2,7 @@
 FROM ubuntu:22.04
 
 # Set Github Runner Version
-ARG RUNNER_VERSION="2.311.0"
+ARG RUNNER_VERSION="2.312.0"
 ARG DEBIAN_FRONTEND=noninteractive
 
 # Labels for the image
